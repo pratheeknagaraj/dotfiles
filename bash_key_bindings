@@ -1,0 +1,16 @@
+set meta-flag on
+set input-meta on
+set output-meta on
+set convert-meta off
+set show-all-if-ambiguous on
+set bell-style none
+set print-completions-horizontally off
+
+"\C-dW": kill-word
+"\C-dL": kill-line
+"\C-dw": backward-kill-word
+"\C-dl": backward-kill-line
+"\C-da": kill-line
+
+"\C-f": forward-word
+"\C-b": backward-word

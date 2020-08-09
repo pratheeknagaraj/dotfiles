@@ -1,2 +1,10 @@
 # dotfiles
-My personal dotfiles
+
+pratheeknagaraj dotfiles
+===================
+
+Notes
+------------
+
+These are my personal dotfiles.
+
